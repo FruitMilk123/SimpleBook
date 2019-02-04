@@ -1,0 +1,1 @@
+export const GET_MAIN_LIST = 'get_main_list'
